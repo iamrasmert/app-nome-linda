@@ -4,7 +4,7 @@ st.title("Teste de nome")
 
 nome = st.text_input("Digite seu nome:")
 
-linda = ["leticia", "letícia", "Leticia", "Letícia", "lele", "lelê"]
+linda = ["leticia", "letícia", "Leticia", "Letícia", "lele", "lelê", "Lele", "Lelê"]
 
 if nome:
     if nome in linda:
